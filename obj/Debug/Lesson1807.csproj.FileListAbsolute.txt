@@ -1,0 +1,7 @@
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\bin\Debug\Lesson1807.exe.config
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\bin\Debug\Lesson1807.exe
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\bin\Debug\Lesson1807.pdb
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\obj\Debug\Lesson1807.csproj.CoreCompileInputs.cache
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\obj\Debug\Lesson1807.exe
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\obj\Debug\Lesson1807.pdb
+C:\Users\m.sapozhny\Source\repos\Lesson1807\Lesson1807\obj\Debug\Lesson1807.csprojAssemblyReference.cache
